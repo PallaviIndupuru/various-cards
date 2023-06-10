@@ -1,0 +1,32 @@
+body{
+    font-family: cursive;
+}
+.imgs{
+    display: flex;
+   justify-content: space-between;
+   
+}
+
+.card{
+   width: 290px;
+    height: 400px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+   
+   
+}
+.picc{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+.text{
+    margin-left: 20px;
+    font-weight: bolder;
+    color: crimson;
+
+}
+.para{
+    margin-left: 20px;
+    
+}
